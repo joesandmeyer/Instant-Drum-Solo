@@ -1,0 +1,16 @@
+kick
+
+
+bass
+
+
+snare
+
+    recursion(start, end, depth)
+        (false)
+        
+        (true)
+            r = place probability model
+            recurse(start,r,depth+1)
+            recurse(r,end,depth+1)
+            parse probability model
